@@ -16,7 +16,7 @@ int post_resolution = 10;
 int turn_resolution = 5;
 
 float departure_height = 2.5;
-float departure_thickness = 0.7;
+float departure_thickness = 0.72;
 float departure_radius = 2;
 
 float tube_height = 8;
