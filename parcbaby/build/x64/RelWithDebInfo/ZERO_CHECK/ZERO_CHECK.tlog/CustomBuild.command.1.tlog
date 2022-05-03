@@ -1,0 +1,10 @@
+^C:\USERS\ELIAN MOREL\ONEDRIVE - ECOLE POLYTECHNIQUE\DOCUMENTS\GITHUB\INF443_PARCBABY\PARCBABY\BUILD\CMAKEFILES\916E13725AAFE92510F7FED24653BD7C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Elian Morel/OneDrive - Ecole Polytechnique/Documents/GitHub/INF443_ParcBaby/parcbaby" "-BC:/Users/Elian Morel/OneDrive - Ecole Polytechnique/Documents/GitHub/INF443_ParcBaby/parcbaby/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Elian Morel/OneDrive - Ecole Polytechnique/Documents/GitHub/INF443_ParcBaby/parcbaby/build/parcbaby.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\build\CMakeFiles\916e13725aafe92510f7fed24653bd7c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{28830E76-5844-3A8F-A9B5-E819CF3EBD2D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

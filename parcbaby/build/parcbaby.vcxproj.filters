@@ -1,0 +1,1016 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\basic_types\basic_types.cpp">
+      <Filter>cgp\base\basic_types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\error\error.cpp">
+      <Filter>cgp\base\error</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\rand\rand.cpp">
+      <Filter>cgp\base\rand</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\string\string.cpp">
+      <Filter>cgp\base\string</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer\test\test_buffer.cpp">
+      <Filter>cgp\containers\buffer\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\special_types\special_types.cpp">
+      <Filter>cgp\containers\buffer_stack\special_types</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\test\test_buffer_stack.cpp">
+      <Filter>cgp\containers\buffer_stack\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid\test\test_grid.cpp">
+      <Filter>cgp\containers\grid\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid_stack\grid_stack_2D\test\test_grid_stack_2D.cpp">
+      <Filter>cgp\containers\grid_stack\grid_stack_2D\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\offset_grid\offset_grid.cpp">
+      <Filter>cgp\containers\offset_grid</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\curve_drawable\curve_drawable.cpp">
+      <Filter>cgp\display\drawable\curve_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\curve_dynamic_drawable\curve_dynamic_drawable.cpp">
+      <Filter>cgp\display\drawable\curve_dynamic_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable.cpp">
+      <Filter>cgp\display\drawable\hierarchy_mesh_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node\hierarchy_mesh_drawable_node.cpp">
+      <Filter>cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\mesh_drawable\mesh_drawable.cpp">
+      <Filter>cgp\display\drawable\mesh_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\mesh_normal_drawable\mesh_normal_drawable.cpp">
+      <Filter>cgp\display\drawable\mesh_normal_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\mesh_wireframe_drawable\mesh_wireframe_drawable.cpp">
+      <Filter>cgp\display\drawable\mesh_wireframe_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\segments_drawable\segments_drawable.cpp">
+      <Filter>cgp\display\drawable\segments_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\shading_parameters\shading_parameters.cpp">
+      <Filter>cgp\display\drawable\shading_parameters</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\skybox_drawable\skybox_drawable.cpp">
+      <Filter>cgp\display\drawable\skybox_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\spatial_domain_grid_drawable\spatial_domain_grid_drawable.cpp">
+      <Filter>cgp\display\drawable\spatial_domain_grid_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\trajectory_drawable\trajectory_drawable.cpp">
+      <Filter>cgp\display\drawable\trajectory_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\triangle_soup_drawable\triangle_soup_drawable.cpp">
+      <Filter>cgp\display\drawable\triangle_soup_drawable</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\image\image.cpp">
+      <Filter>cgp\display\image</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\debug\debug.cpp">
+      <Filter>cgp\display\opengl\debug</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\helper\opengl_helper.cpp">
+      <Filter>cgp\display\opengl\helper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\shaders\shaders.cpp">
+      <Filter>cgp\display\opengl\shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\texture\texture.cpp">
+      <Filter>cgp\display\opengl\texture</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\uniform\uniform.cpp">
+      <Filter>cgp\display\opengl\uniform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\window\window.cpp">
+      <Filter>cgp\display\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\files\files.cpp">
+      <Filter>cgp\files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\helper_common_scene\helper\helper.cpp">
+      <Filter>cgp\helper_common_scene\helper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\helper_common_scene\scene_environment_basic\scene_environment_basic.cpp">
+      <Filter>cgp\helper_common_scene\scene_environment_basic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_around_center\camera_around_center.cpp">
+      <Filter>cgp\interaction\camera\camera_around_center</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_base\camera_base.cpp">
+      <Filter>cgp\interaction\camera\camera_base</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_head\camera_head.cpp">
+      <Filter>cgp\interaction\camera\camera_head</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_projection\camera_projection.cpp">
+      <Filter>cgp\interaction\camera\camera_projection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_spherical_coordinates\camera_spherical_coordinates.cpp">
+      <Filter>cgp\interaction\camera\camera_spherical_coordinates</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\common_functions\common_functions.cpp">
+      <Filter>cgp\interaction\camera\common_functions</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera_standard_behavior\camera_standard_behavior.cpp">
+      <Filter>cgp\interaction\camera_standard_behavior</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\glfw_inputs\glfw_inputs.cpp">
+      <Filter>cgp\interaction\glfw_inputs</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\gui\gui.cpp">
+      <Filter>cgp\interaction\gui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking_plane\picking_plane.cpp">
+      <Filter>cgp\interaction\picking\picking_plane</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking_spheres\picking_spheres.cpp">
+      <Filter>cgp\interaction\picking\picking_spheres</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking_structure\picking_structure.cpp">
+      <Filter>cgp\interaction\picking\picking_structure</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_basic\timer_basic.cpp">
+      <Filter>cgp\interaction\timer\timer_basic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_event_periodic\timer_event_periodic.cpp">
+      <Filter>cgp\interaction\timer\timer_event_periodic</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_fps\timer_fps.cpp">
+      <Filter>cgp\interaction\timer\timer_fps</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_interval\timer_interval.cpp">
+      <Filter>cgp\interaction\timer\timer_interval</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\tracker\velocity_tracker\velocity_tracker.cpp">
+      <Filter>cgp\interaction\tracker\velocity_tracker</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\affine\affine_rt\affine_rt.cpp">
+      <Filter>cgp\math\affine\affine_rt</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\affine\affine_rts\affine_rts.cpp">
+      <Filter>cgp\math\affine\affine_rts</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\frame\frame.cpp">
+      <Filter>cgp\math\frame</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\interpolation\interpolation.cpp">
+      <Filter>cgp\math\interpolation</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix_stack\special_types\definition\special_types.cpp">
+      <Filter>cgp\math\matrix\matrix_stack\special_types\definition</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix_stack\special_types\mat4\mat4.cpp">
+      <Filter>cgp\math\matrix\matrix_stack\special_types\mat4</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\test\test_matrix_stack.cpp">
+      <Filter>cgp\math\matrix\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\projection\projection.cpp">
+      <Filter>cgp\math\projection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\quaternion\quaternion.cpp">
+      <Filter>cgp\math\quaternion</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\rotation_transform\rotation_transform.cpp">
+      <Filter>cgp\math\rotation_transform</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\rotation_transform\test\test_rotation.cpp">
+      <Filter>cgp\math\rotation_transform\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\vec_mat\test\test_vec_mat.cpp">
+      <Filter>cgp\math\vec_mat\test</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\vec_mat\vec_mat.cpp">
+      <Filter>cgp\math\vec_mat</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\curve\curve.cpp">
+      <Filter>cgp\shape\curve</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\implicit\marching_cube\helper\marching_cubes_lut.cpp">
+      <Filter>cgp\shape\implicit\marching_cube\helper</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\implicit\marching_cube\marching_cube.cpp">
+      <Filter>cgp\shape\implicit\marching_cube</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\intersection\intersection.cpp">
+      <Filter>cgp\shape\intersection</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\loader\obj\obj.cpp">
+      <Filter>cgp\shape\mesh\loader\obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\primitive\mesh_primitive.cpp">
+      <Filter>cgp\shape\mesh\primitive</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\structure\mesh.cpp">
+      <Filter>cgp\shape\mesh\structure</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\noise\noise.cpp">
+      <Filter>cgp\shape\noise</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\spatial_domain\spatial_domain_grid_3D\spatial_domain_grid_3D.cpp">
+      <Filter>cgp\shape\spatial_domain\spatial_domain_grid_3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\glad\src\glad.cpp">
+      <Filter>third_party\src\glad\src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_demo.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_draw.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_impl_glfw.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_impl_opengl3.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_widgets.cpp">
+      <Filter>third_party\src\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\jpeg\jpgd.cpp">
+      <Filter>third_party\src\jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\jpeg\jpge.cpp">
+      <Filter>third_party\src\jpeg</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\lodepng\lodepng.cpp">
+      <Filter>third_party\src\lodepng</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\simplexnoise\simplexnoise1234.cpp">
+      <Filter>third_party\src\simplexnoise</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\elementar.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\racetrack.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\scene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\base.hpp">
+      <Filter>cgp\base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\basic_types\basic_types.hpp">
+      <Filter>cgp\base\basic_types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\error\error.hpp">
+      <Filter>cgp\base\error</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\rand\rand.hpp">
+      <Filter>cgp\base\rand</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\stl\stl.hpp">
+      <Filter>cgp\base\stl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\string\string.hpp">
+      <Filter>cgp\base\string</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\base\types\types.hpp">
+      <Filter>cgp\base\types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\cgp.hpp">
+      <Filter>cgp</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer\buffer.hpp">
+      <Filter>cgp\containers\buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer\test\test_buffer.hpp">
+      <Filter>cgp\containers\buffer\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\buffer_stack.hpp">
+      <Filter>cgp\containers\buffer_stack</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\implementation\buffer_stack.hpp">
+      <Filter>cgp\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\implementation\buffer_stack2.hpp">
+      <Filter>cgp\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\implementation\buffer_stack3.hpp">
+      <Filter>cgp\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\implementation\buffer_stack4.hpp">
+      <Filter>cgp\containers\buffer_stack\implementation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\special_types\special_types.hpp">
+      <Filter>cgp\containers\buffer_stack\special_types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\buffer_stack\test\test_buffer_stack.hpp">
+      <Filter>cgp\containers\buffer_stack\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\containers.hpp">
+      <Filter>cgp\containers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid\grid.hpp">
+      <Filter>cgp\containers\grid</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid\grid_2D\grid_2D.hpp">
+      <Filter>cgp\containers\grid\grid_2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid\grid_3D\grid_3D.hpp">
+      <Filter>cgp\containers\grid\grid_3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid\test\test_grid.hpp">
+      <Filter>cgp\containers\grid\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid_stack\grid_stack.hpp">
+      <Filter>cgp\containers\grid_stack</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid_stack\grid_stack_2D\grid_stack_2D.hpp">
+      <Filter>cgp\containers\grid_stack\grid_stack_2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\grid_stack\grid_stack_2D\test\test_grid_stack_2D.hpp">
+      <Filter>cgp\containers\grid_stack\grid_stack_2D\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\containers\offset_grid\offset_grid.hpp">
+      <Filter>cgp\containers\offset_grid</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\display.hpp">
+      <Filter>cgp\display</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\curve_drawable\curve_drawable.hpp">
+      <Filter>cgp\display\drawable\curve_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\curve_dynamic_drawable\curve_dynamic_drawable.hpp">
+      <Filter>cgp\display\drawable\curve_dynamic_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\drawable.hpp">
+      <Filter>cgp\display\drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable.hpp">
+      <Filter>cgp\display\drawable\hierarchy_mesh_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node\hierarchy_mesh_drawable_node.hpp">
+      <Filter>cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\mesh_drawable\mesh_drawable.hpp">
+      <Filter>cgp\display\drawable\mesh_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\mesh_normal_drawable\mesh_normal_drawable.hpp">
+      <Filter>cgp\display\drawable\mesh_normal_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\mesh_wireframe_drawable\mesh_wireframe_drawable.hpp">
+      <Filter>cgp\display\drawable\mesh_wireframe_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\segments_drawable\segments_drawable.hpp">
+      <Filter>cgp\display\drawable\segments_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\shading_parameters\shading_parameters.hpp">
+      <Filter>cgp\display\drawable\shading_parameters</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\skybox_drawable\skybox_drawable.hpp">
+      <Filter>cgp\display\drawable\skybox_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\spatial_domain_grid_drawable\spatial_domain_grid_drawable.hpp">
+      <Filter>cgp\display\drawable\spatial_domain_grid_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\trajectory_drawable\trajectory_drawable.hpp">
+      <Filter>cgp\display\drawable\trajectory_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\drawable\triangle_soup_drawable\triangle_soup_drawable.hpp">
+      <Filter>cgp\display\drawable\triangle_soup_drawable</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\image\image.hpp">
+      <Filter>cgp\display\image</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\debug\debug.hpp">
+      <Filter>cgp\display\opengl\debug</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\glad\glad.hpp">
+      <Filter>cgp\display\opengl\glad</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\helper\opengl_helper.hpp">
+      <Filter>cgp\display\opengl\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\opengl.hpp">
+      <Filter>cgp\display\opengl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\shaders\shaders.hpp">
+      <Filter>cgp\display\opengl\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\texture\texture.hpp">
+      <Filter>cgp\display\opengl\texture</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\opengl\uniform\uniform.hpp">
+      <Filter>cgp\display\opengl\uniform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\display\window\window.hpp">
+      <Filter>cgp\display\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\files\files.hpp">
+      <Filter>cgp\files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\helper_common_scene\helper\helper.hpp">
+      <Filter>cgp\helper_common_scene\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\helper_common_scene\helper_common_scene.hpp">
+      <Filter>cgp\helper_common_scene</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\helper_common_scene\scene_environment_basic\scene_environment_basic.hpp">
+      <Filter>cgp\helper_common_scene\scene_environment_basic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera.hpp">
+      <Filter>cgp\interaction\camera</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_around_center\camera_around_center.hpp">
+      <Filter>cgp\interaction\camera\camera_around_center</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_base\camera_base.hpp">
+      <Filter>cgp\interaction\camera\camera_base</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_head\camera_head.hpp">
+      <Filter>cgp\interaction\camera\camera_head</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_projection\camera_projection.hpp">
+      <Filter>cgp\interaction\camera\camera_projection</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\camera_spherical_coordinates\camera_spherical_coordinates.hpp">
+      <Filter>cgp\interaction\camera\camera_spherical_coordinates</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera\common_functions\common_functions.hpp">
+      <Filter>cgp\interaction\camera\common_functions</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\camera_standard_behavior\camera_standard_behavior.hpp">
+      <Filter>cgp\interaction\camera_standard_behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\glfw_inputs\glfw_inputs.hpp">
+      <Filter>cgp\interaction\glfw_inputs</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\gui\gui.hpp">
+      <Filter>cgp\interaction\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\interaction.hpp">
+      <Filter>cgp\interaction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking.hpp">
+      <Filter>cgp\interaction\picking</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking_plane\picking_plane.hpp">
+      <Filter>cgp\interaction\picking\picking_plane</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking_spheres\picking_spheres.hpp">
+      <Filter>cgp\interaction\picking\picking_spheres</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\picking\picking_structure\picking_structure.hpp">
+      <Filter>cgp\interaction\picking\picking_structure</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer.hpp">
+      <Filter>cgp\interaction\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_basic\timer_basic.hpp">
+      <Filter>cgp\interaction\timer\timer_basic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_event_periodic\timer_event_periodic.hpp">
+      <Filter>cgp\interaction\timer\timer_event_periodic</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_fps\timer_fps.hpp">
+      <Filter>cgp\interaction\timer\timer_fps</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\timer\timer_interval\timer_interval.hpp">
+      <Filter>cgp\interaction\timer\timer_interval</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\tracker\tracker.hpp">
+      <Filter>cgp\interaction\tracker</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\interaction\tracker\velocity_tracker\velocity_tracker.hpp">
+      <Filter>cgp\interaction\tracker\velocity_tracker</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\affine\affine.hpp">
+      <Filter>cgp\math\affine</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\affine\affine_rt\affine_rt.hpp">
+      <Filter>cgp\math\affine\affine_rt</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\affine\affine_rts\affine_rts.hpp">
+      <Filter>cgp\math\affine\affine_rts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\frame\frame.hpp">
+      <Filter>cgp\math\frame</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\interpolation\interpolation.hpp">
+      <Filter>cgp\math\interpolation</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\math.hpp">
+      <Filter>cgp\math</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix.hpp">
+      <Filter>cgp\math\matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix_stack\matrix_stack.hpp">
+      <Filter>cgp\math\matrix\matrix_stack</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix_stack\special_types\definition\special_types.hpp">
+      <Filter>cgp\math\matrix\matrix_stack\special_types\definition</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix_stack\special_types\mat4\mat4.hpp">
+      <Filter>cgp\math\matrix\matrix_stack\special_types\mat4</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\matrix_stack\special_types\special_types.hpp">
+      <Filter>cgp\math\matrix\matrix_stack\special_types</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\matrix\test\test_matrix_stack.hpp">
+      <Filter>cgp\math\matrix\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\projection\projection.hpp">
+      <Filter>cgp\math\projection</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\quaternion\quaternion.hpp">
+      <Filter>cgp\math\quaternion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\rotation_transform\rotation_transform.hpp">
+      <Filter>cgp\math\rotation_transform</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\rotation_transform\test\test_rotation.hpp">
+      <Filter>cgp\math\rotation_transform\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\vec_mat\test\test_vec_mat.hpp">
+      <Filter>cgp\math\vec_mat\test</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\math\vec_mat\vec_mat.hpp">
+      <Filter>cgp\math\vec_mat</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\curve\curve.hpp">
+      <Filter>cgp\shape\curve</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\implicit\implicit.hpp">
+      <Filter>cgp\shape\implicit</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\implicit\marching_cube\helper\marching_cubes_lut.hpp">
+      <Filter>cgp\shape\implicit\marching_cube\helper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\implicit\marching_cube\marching_cube.hpp">
+      <Filter>cgp\shape\implicit\marching_cube</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\intersection\intersection.hpp">
+      <Filter>cgp\shape\intersection</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\loader\loader.hpp">
+      <Filter>cgp\shape\mesh\loader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\loader\obj\obj.hpp">
+      <Filter>cgp\shape\mesh\loader\obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\mesh.hpp">
+      <Filter>cgp\shape\mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\primitive\mesh_primitive.hpp">
+      <Filter>cgp\shape\mesh\primitive</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\mesh\structure\mesh.hpp">
+      <Filter>cgp\shape\mesh\structure</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\noise\noise.hpp">
+      <Filter>cgp\shape\noise</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\shape.hpp">
+      <Filter>cgp\shape</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\spatial_domain\spatial_domain.hpp">
+      <Filter>cgp\shape\spatial_domain</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\cgp\shape\spatial_domain\spatial_domain_grid_3D\spatial_domain_grid_3D.hpp">
+      <Filter>cgp\shape\spatial_domain\spatial_domain_grid_3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\glad\include\glad\glad.hpp">
+      <Filter>third_party\src\glad\include\glad</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imconfig.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_impl_glfw.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_impl_opengl3.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imgui_internal.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imstb_rectpack.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imstb_textedit.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\imgui\imstb_truetype.h">
+      <Filter>third_party\src\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\jpeg\jpgd.h">
+      <Filter>third_party\src\jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\jpeg\jpge.h">
+      <Filter>third_party\src\jpeg</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\lodepng\lodepng.h">
+      <Filter>third_party\src\lodepng</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\library\third_party\src\simplexnoise\simplexnoise1234.hpp">
+      <Filter>third_party\src\simplexnoise</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\elementar.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\racetrack.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\src\scene.hpp">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\shaders\mesh\frag.glsl">
+      <Filter>shaders\mesh</Filter>
+    </None>
+    <None Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\shaders\mesh\vert.glsl">
+      <Filter>shaders\mesh</Filter>
+    </None>
+    <None Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\shaders\single_color\frag.glsl">
+      <Filter>shaders\single_color</Filter>
+    </None>
+    <None Include="C:\Users\Elian Morel\OneDrive - Ecole Polytechnique\Documents\GitHub\INF443_ParcBaby\parcbaby\shaders\single_color\vert.glsl">
+      <Filter>shaders\single_color</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cgp">
+      <UniqueIdentifier>{DA897205-91DB-39C3-90B4-062A8F6A82A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base">
+      <UniqueIdentifier>{F788FBED-817A-31F0-93C8-FE5DF6E1BEE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base\basic_types">
+      <UniqueIdentifier>{A3892F68-0F58-34AF-884F-FD21A74BFD3C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base\error">
+      <UniqueIdentifier>{33DB0BB0-224F-3CDD-9A16-CECCE603FB14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base\rand">
+      <UniqueIdentifier>{4AECC29F-599C-3010-BC2B-27741010F160}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base\stl">
+      <UniqueIdentifier>{E9C777A7-001D-35E7-9627-80FD625DDD7F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base\string">
+      <UniqueIdentifier>{85F9007D-62F0-350B-986B-A0076BF2346B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\base\types">
+      <UniqueIdentifier>{E9074E5D-0DDC-34BC-8D56-659811F2AB11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers">
+      <UniqueIdentifier>{4366E92D-B423-3247-9994-B361A005AFC0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\buffer">
+      <UniqueIdentifier>{0505EA45-0B92-3AAD-8BB0-597D86E8DBAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\buffer\test">
+      <UniqueIdentifier>{0426AD12-6D9A-390E-B2AF-D5613B67186E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\buffer_stack">
+      <UniqueIdentifier>{81B8B37B-3FFB-3DC8-98D5-90F2D1C7782A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\buffer_stack\implementation">
+      <UniqueIdentifier>{B88EFA76-BF2D-3BB8-81E7-8B5BDD189400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\buffer_stack\special_types">
+      <UniqueIdentifier>{585860A5-9BD7-35F4-870A-A2532DBFC99D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\buffer_stack\test">
+      <UniqueIdentifier>{02F6BFB5-6D7B-32A5-907F-262039D3FB2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid">
+      <UniqueIdentifier>{29EFE805-6C93-32B6-9C9D-E99E15E15FF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid\grid_2D">
+      <UniqueIdentifier>{6002027D-F5CC-37D8-B647-2C60D91D2804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid\grid_3D">
+      <UniqueIdentifier>{DF260D35-0BBE-3BD6-9BDB-2D02FA58DF87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid\test">
+      <UniqueIdentifier>{12EE5281-B740-3194-A59D-57ABCBF63AFD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid_stack">
+      <UniqueIdentifier>{9829B390-F73E-3CED-8EB4-DEF8626C485F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid_stack\grid_stack_2D">
+      <UniqueIdentifier>{200E901A-BBD5-3C12-9DC4-F0C63F306B69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\grid_stack\grid_stack_2D\test">
+      <UniqueIdentifier>{74E4B437-F699-3CD7-83D3-A257958DFD8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\containers\offset_grid">
+      <UniqueIdentifier>{44445101-A61B-3AEF-9CBA-27484D271CEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display">
+      <UniqueIdentifier>{19AB4E9F-46A3-334C-9E9D-CBF1ECE72030}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable">
+      <UniqueIdentifier>{4B156574-A473-3137-A96F-6106CE1147B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\curve_drawable">
+      <UniqueIdentifier>{F22B6F3D-133C-3ADD-A971-790D20E53AF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\curve_dynamic_drawable">
+      <UniqueIdentifier>{894BCDC1-239D-3E73-95E9-0D7F1D3A2E67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\hierarchy_mesh_drawable">
+      <UniqueIdentifier>{90A8EC9B-CC8B-3615-A5F1-8EBA52A300F3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\hierarchy_mesh_drawable\hierarchy_mesh_drawable_node">
+      <UniqueIdentifier>{DCDAB864-AAFE-3936-8CE0-BC85AA5BFABC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\mesh_drawable">
+      <UniqueIdentifier>{E1B83371-505E-341E-9221-4D2D9F7D37A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\mesh_normal_drawable">
+      <UniqueIdentifier>{14ED9FA7-5E0F-3BAA-8493-099ED082465C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\mesh_wireframe_drawable">
+      <UniqueIdentifier>{49387623-79DB-3774-836D-F032CA4A6E0B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\segments_drawable">
+      <UniqueIdentifier>{D63D1BA5-0E6C-342B-8F8F-7A715452C443}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\shading_parameters">
+      <UniqueIdentifier>{4F20905C-5F75-343C-86B4-A487DECD608A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\skybox_drawable">
+      <UniqueIdentifier>{A158F97C-AA43-3F75-854B-F22857CE4A38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\spatial_domain_grid_drawable">
+      <UniqueIdentifier>{DD9FAC02-C7F4-3432-80B1-570A37B565B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\trajectory_drawable">
+      <UniqueIdentifier>{35D6D3CB-CC9C-3DE2-88F4-298524A1C860}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\drawable\triangle_soup_drawable">
+      <UniqueIdentifier>{C46B9420-D316-3FC2-B0BA-DC830AB79184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\image">
+      <UniqueIdentifier>{28E8E3C2-5F36-335E-9886-FA890D6AD840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl">
+      <UniqueIdentifier>{AD3E5383-6956-359E-B7AE-014D449DF27E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl\debug">
+      <UniqueIdentifier>{DA457F6E-57AB-3461-8DE3-355FA684EB41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl\glad">
+      <UniqueIdentifier>{2E8520F1-4F14-38F3-BB8A-B545DD82D8BD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl\helper">
+      <UniqueIdentifier>{CE7D233B-7F20-311F-9E85-D8C5035D31E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl\shaders">
+      <UniqueIdentifier>{69A257EE-8CFB-394B-85B9-82FA83731433}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl\texture">
+      <UniqueIdentifier>{F8750886-B3A6-3A57-8065-91FDAFE4247E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\opengl\uniform">
+      <UniqueIdentifier>{32736326-127C-3835-B4B3-6E0A76D92DB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\display\window">
+      <UniqueIdentifier>{15EA8FAA-5E70-3E04-BF66-1E82EB127EA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\files">
+      <UniqueIdentifier>{2E696110-C5EA-32BA-8596-B2DCBDBD623A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\helper_common_scene">
+      <UniqueIdentifier>{B4D38BD3-D389-301B-8A4E-075607767A93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\helper_common_scene\helper">
+      <UniqueIdentifier>{737B3345-0EC5-342B-B4FB-DB6478A6A0D0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\helper_common_scene\scene_environment_basic">
+      <UniqueIdentifier>{C3F0DE74-28FA-34ED-9DFC-0BC42429AEE0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction">
+      <UniqueIdentifier>{5672E192-E4CD-3163-BF27-CFD45E4F9D68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera">
+      <UniqueIdentifier>{6FB9CD29-B757-3B8D-AC32-BD43D02E96B6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera\camera_around_center">
+      <UniqueIdentifier>{45BFFF65-FE6E-3877-B1F6-DC190B2CFF65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera\camera_base">
+      <UniqueIdentifier>{9FF31EBC-A4F2-36A6-A5D6-250A19014ECD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera\camera_head">
+      <UniqueIdentifier>{6234F1C3-7A6D-3745-9EC4-2D245F6EB6F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera\camera_projection">
+      <UniqueIdentifier>{4BBF40B3-E7A2-317D-8F91-644882869E20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera\camera_spherical_coordinates">
+      <UniqueIdentifier>{5E463499-9B85-3060-9168-D8839D55578D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera\common_functions">
+      <UniqueIdentifier>{256AF398-F3EC-38E7-98DB-A8A10AEB525E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\camera_standard_behavior">
+      <UniqueIdentifier>{849626BE-4EB8-3E70-B140-0A5D8558F413}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\glfw_inputs">
+      <UniqueIdentifier>{7B70C91F-CB54-3A8A-AB4E-D84AF37693FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\gui">
+      <UniqueIdentifier>{1192D71C-1E9E-37DF-BAD8-5288CFCBE591}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\picking">
+      <UniqueIdentifier>{6BADA899-11CF-3A53-A802-6F9DB5D00649}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\picking\picking_plane">
+      <UniqueIdentifier>{C9476770-559B-355D-A9E1-D270E553FD72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\picking\picking_spheres">
+      <UniqueIdentifier>{F946BA09-1A43-3EE6-BF79-5F0F2C294D3C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\picking\picking_structure">
+      <UniqueIdentifier>{022D75BC-1FAC-30FE-A25D-FA27BA903408}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\timer">
+      <UniqueIdentifier>{E2FC40D4-2BAB-32EC-A393-C99A7AC23914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\timer\timer_basic">
+      <UniqueIdentifier>{320A0677-F1FC-3A81-A0B4-A549DB821BA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\timer\timer_event_periodic">
+      <UniqueIdentifier>{25DACE58-EA3B-3111-891D-D60CAD76BA99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\timer\timer_fps">
+      <UniqueIdentifier>{FCFE09FB-EE3D-33C5-A0F4-F3F2CE60268E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\timer\timer_interval">
+      <UniqueIdentifier>{7CE2F11B-F4BA-31DA-9F9B-64A3BB5E68C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\tracker">
+      <UniqueIdentifier>{0109A2E7-3448-3B8C-B1F9-A7EED1361F26}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\interaction\tracker\velocity_tracker">
+      <UniqueIdentifier>{7AD8D5F2-07BF-3F18-933D-B5D44195BCEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math">
+      <UniqueIdentifier>{03A70C1B-BDE4-34A6-BD3C-09B4852A9605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\affine">
+      <UniqueIdentifier>{D2463833-ECD5-3E0F-B4BB-5393378B1A8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\affine\affine_rt">
+      <UniqueIdentifier>{E42277B3-8913-3013-83E4-5FE3DE157729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\affine\affine_rts">
+      <UniqueIdentifier>{A7952F51-1CB0-3ADF-9AC0-437D6981C59D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\frame">
+      <UniqueIdentifier>{4FA2466F-17AF-3C7B-9992-F22220BC0F03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\interpolation">
+      <UniqueIdentifier>{CB790887-D3AE-318D-AEDD-11E3CABF3AA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\matrix">
+      <UniqueIdentifier>{8424E14C-7343-343A-BF0B-FD24902F69F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\matrix\matrix_stack">
+      <UniqueIdentifier>{1408683E-56BA-3483-92D3-84AA2B53B4EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\matrix\matrix_stack\special_types">
+      <UniqueIdentifier>{EE2740CB-E4DB-36D3-A6F9-EDAEE7372B81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\matrix\matrix_stack\special_types\definition">
+      <UniqueIdentifier>{041BA498-F3C6-3051-825D-5EF98FDEFE9D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\matrix\matrix_stack\special_types\mat4">
+      <UniqueIdentifier>{4EBEE3EE-EE9F-35B6-87C9-DFEE2FEDF210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\matrix\test">
+      <UniqueIdentifier>{3ACC0467-DECA-36B5-BDAE-CAA87A9E0E72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\projection">
+      <UniqueIdentifier>{CF905179-6FAB-3A49-A01A-EB96148B42D3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\quaternion">
+      <UniqueIdentifier>{0531B7BD-C9D6-31C4-AC4E-97089F62E354}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\rotation_transform">
+      <UniqueIdentifier>{70A49C88-5EF9-3C62-A1E9-A8A7DF8B26A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\rotation_transform\test">
+      <UniqueIdentifier>{B7294A54-8D38-36FB-BF7E-8D0EBE65DF67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\vec_mat">
+      <UniqueIdentifier>{856FC174-DBD7-354B-8D7B-B56B9571C3A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\math\vec_mat\test">
+      <UniqueIdentifier>{21138018-DBBC-3090-A52E-81326CEF5CA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape">
+      <UniqueIdentifier>{BEF6E0D7-F69D-3439-B2B6-060188631BBB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\curve">
+      <UniqueIdentifier>{6F9BAF68-076C-3137-8446-82623183EE1E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\implicit">
+      <UniqueIdentifier>{4A2FB55B-B192-3CDE-B300-05F154936B99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\implicit\marching_cube">
+      <UniqueIdentifier>{6A3F9C50-0F1E-39A4-B5C0-B91B6A059655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\implicit\marching_cube\helper">
+      <UniqueIdentifier>{1005D02B-9132-379F-B731-C89452BE2917}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\intersection">
+      <UniqueIdentifier>{038091D7-74A3-303C-9C1C-7E614EE93D08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\mesh">
+      <UniqueIdentifier>{D2C2EF44-C230-310F-9E28-8A73FA91697C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\mesh\loader">
+      <UniqueIdentifier>{416192B5-5757-3A6F-A496-6F8705423ABA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\mesh\loader\obj">
+      <UniqueIdentifier>{AA6179C5-CCD0-34DC-BAAA-EC776F579FC2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\mesh\primitive">
+      <UniqueIdentifier>{B9EAA36C-3E1D-33C0-BDD6-50CEF20F6546}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\mesh\structure">
+      <UniqueIdentifier>{35088FBD-1F6A-366F-9F68-EF515C2BFE16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\noise">
+      <UniqueIdentifier>{080A173D-33AC-36B4-9C38-1B7EC53213E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\spatial_domain">
+      <UniqueIdentifier>{16E11874-8602-3768-B468-784F13E2E7E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cgp\shape\spatial_domain\spatial_domain_grid_3D">
+      <UniqueIdentifier>{C4B3E563-5071-30FF-83A7-E609A19E9E29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{F0387B34-FFFF-3ADA-89AD-4BDF6B054FE3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders\mesh">
+      <UniqueIdentifier>{0A26E677-9D75-34CD-AA1C-3171778D5B0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders\single_color">
+      <UniqueIdentifier>{9012A39E-2BBC-337E-87CD-ADD5AE1C5A19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{5E7A90B5-647D-30CE-89A4-DA87CD8A3D2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party">
+      <UniqueIdentifier>{A4A839BE-ABBC-3CAD-976E-60E8998C79DE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src">
+      <UniqueIdentifier>{CBB5B6FC-3A88-30A6-A3A7-B8E2E8D73DA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad">
+      <UniqueIdentifier>{3A7F5FD6-8459-3938-A926-4EA93B9C933F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad\include">
+      <UniqueIdentifier>{49716974-825F-33F7-B821-CD7C1307639B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad\include\glad">
+      <UniqueIdentifier>{90B4B6BF-FF15-3F88-A01A-F42300C821E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\glad\src">
+      <UniqueIdentifier>{499C45F4-73E0-3193-958B-E76E7A9FA9A6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\imgui">
+      <UniqueIdentifier>{7098A39B-BFC3-30CE-8E8D-6D3CEBAA763C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\jpeg">
+      <UniqueIdentifier>{D23C7BFB-8508-3280-9851-E1BEFD9B1660}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\lodepng">
+      <UniqueIdentifier>{F88446FB-D4E0-3D83-8336-5E66BE7113D4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="third_party\src\simplexnoise">
+      <UniqueIdentifier>{667F786B-860E-3C96-AE73-21FE594ECBCE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

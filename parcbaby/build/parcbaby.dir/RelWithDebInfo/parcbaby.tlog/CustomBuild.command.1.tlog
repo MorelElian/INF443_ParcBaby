@@ -1,0 +1,10 @@
+^C:\USERS\ELIAN MOREL\ONEDRIVE - ECOLE POLYTECHNIQUE\DOCUMENTS\GITHUB\INF443_PARCBABY\PARCBABY\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Elian Morel/OneDrive - Ecole Polytechnique/Documents/GitHub/INF443_ParcBaby/parcbaby" "-BC:/Users/Elian Morel/OneDrive - Ecole Polytechnique/Documents/GitHub/INF443_ParcBaby/parcbaby/build" --check-stamp-file "C:/Users/Elian Morel/OneDrive - Ecole Polytechnique/Documents/GitHub/INF443_ParcBaby/parcbaby/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

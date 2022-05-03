@@ -5,6 +5,7 @@ using namespace cgp;
 
 float pi = 3.141592653589793;
 
+
 float disc_radius = 10;
 float turn_radius = 4;
 float racetrack_length = 30;

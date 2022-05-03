@@ -6,7 +6,6 @@
 
 using namespace cgp;
 
-
 void scene_structure::initialize()
 {
 	// Basic set-up
